@@ -19,7 +19,21 @@
   // Configure tool-specific properties.
   "customizations": {
     "vscode": {
-      "extensions": ["ms-dotnettools.csdevkit"]
+      "extensions": ["ms-dotnettools.csdevkit",
+                    "alefragnani.project-manager",
+                    "codezombiech.gitignore",
+                    "donjayamanne.git-extension-pack",
+                    "donjayamanne.githistory",
+                    "eamodio.gitlens",
+                    "github.vscode-pull-request-github",
+                    "mhutchie.git-graph",
+                    "ms-azuretools.vscode-docker",
+                    "ms-dotnettools.csdevkit",
+                    "ms-dotnettools.csharp",
+                    "ms-dotnettools.vscode-dotnet-runtime",
+                    "ms-dotnettools.vscodeintellicode-csharp",
+                    "ziyasal.vscode-open-in-github",
+                    "GitHub.vscode-pull-request-github"]      
     }
   },
 
