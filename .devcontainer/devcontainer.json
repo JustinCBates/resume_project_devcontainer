@@ -34,7 +34,8 @@
                     "ms-dotnettools.vscodeintellicode-csharp",
                     "ziyasal.vscode-open-in-github",
                     "GitHub.vscode-pull-request-github",
-                    "daiybh.githelper"]      
+                    "daiybh.githelper",
+                    "ivanhofer.git-assistant"]      
     }
   },
 
