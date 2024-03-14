@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/JustinCBates/resume_api_dotnet8.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/JustinCBates/resume_frontend_react.git
